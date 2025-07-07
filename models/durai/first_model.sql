@@ -3,4 +3,4 @@
         materialized='table'
     )
 }}
-select 1 as id ,'somu' as name
+select 1 as id ,'praveen' as name
